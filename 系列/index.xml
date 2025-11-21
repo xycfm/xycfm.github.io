@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>系列 on </title>
-    <link>https://xycfm.github.io/%E7%B3%BB%E5%88%97/</link>
+    <link>https://blog.151107.xyz/%E7%B3%BB%E5%88%97/</link>
     <description>Recent content in 系列 on </description>
     <image>
       <title></title>
-      <url>https://xycfm.github.io/img/logo.png</url>
-      <link>https://xycfm.github.io/img/logo.png</link>
+      <url>https://blog.151107.xyz/img/logo.png</url>
+      <link>https://blog.151107.xyz/img/logo.png</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh</language>
-    <atom:link href="https://xycfm.github.io/%E7%B3%BB%E5%88%97/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.151107.xyz/%E7%B3%BB%E5%88%97/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
